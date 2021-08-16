@@ -10,7 +10,13 @@
     ;
 }
 
-
+a{
+    
+ display: block;
+    line-height: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
 .pag{
     font-size: 30px;
     text-align: center;
