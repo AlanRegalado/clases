@@ -80,7 +80,7 @@
             }
             
             a:hover {
-                color: orange;
+                color: green;
             }
             
             @media (max-width: 500px) {
